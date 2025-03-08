@@ -104,7 +104,7 @@ layoutClass: gap-8
 
 ::right::
 
-![alt text](/img/profile-pic2.jpg){style="position: relative; margin: auto; width: 80%; border-radius: 15px 50px; "}
+![alt text](/img/profile-pic.jpg){style="position: relative; margin: auto; width: 80%; border-radius: 15px 50px; "}
 
 <!--
 
