@@ -5,7 +5,7 @@ theme: the-unnamed
 title: Confessions of an ADHD-fueled technology…. SQUIRREL!
 info: |
   # Confessions of an ADHD-fueled technology…. SQUIRREL!
-conference: ""
+conference: "SCaLE22x"
 socialimg: "/img/bluesky-jerdog-white.png"
 favicon: "https://raw.githubusercontent.com/jerdog/jmeiss-me-website/main/assets/images/fav.png"
 keywords: ""
