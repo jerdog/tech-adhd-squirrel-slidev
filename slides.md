@@ -1038,16 +1038,17 @@ layout: center
 
 ## ADHD Resources
 
+[Dani Donovan: ADHD Comics](https://adhddd.com)<br />
 [r/ADHD_Programmers](https://www.reddit.com/r/ADHD\_Programmers/)<br />
 [American Professional Society of ADHD & Related Disorders](https://apsard.org/)<br />
 [Attention Deficit Disorder Association](https://add.org/)<br />
-  [ADDA: ADHD Workplace Accomodations Guide](https://add.org/adhd-workplace-accommodations-guide/)<br />
+[ADDA: ADHD Workplace Accomodations Guide](https://add.org/adhd-workplace-accommodations-guide/)<br />
 [Children and Adults with ADHD](https://chadd.org/)<br />
 [National Institute of Mental Health: ADHD Information](https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd)<br />
 [Benefits.gov: ADHD Resources](https://www.benefits.gov/news/article/471)<br />
 [Wired Magazine: How Technology Can Help You Cope With ADHD](https://www.wired.com/story/how-technology-help-cope-with-adhd/)<br />
 [WebMD: Adult ADHD Symptoms, Causes, Treatments](https://www.webmd.com/add-adhd/adhd-adults)<br />
-  [WebMD: Living Well with Adult ADHD](https://www.webmd.com/add-adhd/living-well-adult-adhd)<br />
+[WebMD: Living Well with Adult ADHD](https://www.webmd.com/add-adhd/living-well-adult-adhd)<br />
 [Cleveland Clinic: ADHD in Women](https://my.clevelandclinic.org/health/diseases/24741-adhd-in-women)<br />
 [ADDitude Magazine: Gender differences in ADHD](https://www.additudemag.com/gender-differences-in-adhd-women-vs-men/)<br />
 [StackOverflow Podcast: The many strengths of neurodivergence](https://stackoverflow.blog/2022/10/04/the-many-strengths-of-neurodivergence/)<br />
